@@ -28,3 +28,5 @@ function setDate() {
 }
 
 setInterval(setDate, 1000);
+
+// TODO: fix the way the hands rebound when they wrap to zero;
